@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=
+comment1.target=game()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=
+comment4.target=void\ tick()
+comment5.params=
+comment5.target=void\ render()
+comment6.params=var\ min\ max
+comment6.target=int\ clamp(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ run()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
